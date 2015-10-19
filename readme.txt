@@ -1,4 +1,4 @@
 To facilitate OSGi bundle manifest generation, the archetype uses Felix maven plugin.
 Please see http://felix.apache.org/site/maven-bundle-plugin-bnd.html for more information.
-//   ÈçºÎÌá½»´úÂëµ½  gitbub 
+//     æäº¤ä»£ç åˆ° gitbub 
 //    http://www.shangxueba.com/jingyan/2273591.html
